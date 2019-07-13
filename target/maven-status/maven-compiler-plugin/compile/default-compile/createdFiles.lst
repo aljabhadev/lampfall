@@ -1,0 +1,16 @@
+sn\touba\aljabha\lampfall\domain\Formation.class
+sn\touba\aljabha\lampfall\domain\Diplome.class
+sn\touba\aljabha\lampfall\domain\Ecole.class
+sn\touba\aljabha\lampfall\domain\Specialite.class
+sn\touba\aljabha\lampfall\domain\security\Authority.class
+sn\touba\aljabha\lampfall\domain\CentreInteret.class
+sn\touba\aljabha\lampfall\domain\Dahira.class
+sn\touba\aljabha\lampfall\domain\Entreprise.class
+sn\touba\aljabha\lampfall\domain\Federation.class
+sn\touba\aljabha\lampfall\domain\KeurSerigne.class
+sn\touba\aljabha\lampfall\LampfallApplication.class
+sn\touba\aljabha\lampfall\domain\Murid.class
+sn\touba\aljabha\lampfall\domain\Bereup.class
+sn\touba\aljabha\lampfall\domain\security\MuridRole.class
+sn\touba\aljabha\lampfall\domain\security\Role.class
+sn\touba\aljabha\lampfall\domain\Experience.class
